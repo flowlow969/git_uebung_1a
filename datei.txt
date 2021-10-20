@@ -1,3 +1,8 @@
 Hello Git!
 Git ist eine versionsverwaltung Software.
 Dabei kann lokal gearbeitet werden oder auch remote auf einem Server zusammengearbeitet werden.
+In Git sind bei einer linearen Versionsverwaltung die folgenden drei Befehle besonders hilfreich:
+Git add .
+Git commit -m "Aussagekräftige commit Nachricht"
+Git push
+
