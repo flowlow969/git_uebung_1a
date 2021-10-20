@@ -1,2 +1,2 @@
 Hello Git!
-Git ist eine versionswerwaltungs softwear.
+Git ist eine versionsverwaltung Software.
