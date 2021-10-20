@@ -1,2 +1,6 @@
 Hello Git!
 Git ist eine versionsverwaltung Software.
+In Git sind bei einer linearen Versionsverwaltung die folgenden drei befehle besonders hilfreich:
+Git add .
+Git commit -m "Aussagekräftige commit Nachricht"
+Git push
