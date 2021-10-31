@@ -66,18 +66,12 @@
        cx="178.57047"
        cy="117.73966"
        r="5.5150738" />
-    <path
-       id="path837-3"
-       style="opacity:1;fill:#000000;fill-opacity:0.991873;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:type="arc"
-       sodipodi:cx="136.23709"
-       sodipodi:cy="117.73966"
-       sodipodi:rx="5.5150738"
-       sodipodi:ry="5.5150738"
-       sodipodi:start="0"
-       sodipodi:end="3.1415927"
-       sodipodi:arc-type="slice"
-       d="m 141.75216,117.73966 a 5.5150738,5.5150738 0 0 1 -2.75753,4.7762 5.5150738,5.5150738 0 0 1 -5.51508,0 5.5150738,5.5150738 0 0 1 -2.75753,-4.7762 h 5.51507 z" />
+    <circle
+        style="opacity:1;fill:#000000;fill-opacity:0.991873;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+        id="path837"
+        cx="136.23709"
+        cy="117.73966"
+        r="5.5150738" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 157.40378,120.8687 v 25.30763"
