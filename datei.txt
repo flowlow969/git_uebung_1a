@@ -1,3 +1,4 @@
+Hallo Zusammen.
 Hello Git!
 Git ist eine versionsverwaltung Software.
 Dabei kann lokal gearbeitet werden oder auch remote auf einem Server zusammengearbeitet werden.
